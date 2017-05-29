@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "OVER.html",
     "versionFirst": "3.8.3",
     "uniqCompNum": 32,
     "versionPublish": "3.12.1",
@@ -51,7 +51,7 @@
               "color": "#ffffff",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "17px"
+              "font-size": "16px"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -132,7 +132,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://elisiapoelman.github.io/PUB/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EL I S I A &nbsp;P O E L M A N<br></a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://elisiapoelman.github.io/PUB/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">E L I S I A &nbsp; P O E L M A N<br></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"SCHILDERIJEN.html\" aria-expanded=\"false\">&nbsp;SCHILDERIJEN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OVER.html\" aria-expanded=\"false\">OVER</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACT.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"CONTACT.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">SOCIAAL</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://instagram.com/elisiapoelman\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(235, 107, 86);\"></span>INSTAGRAM</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"CONTACT.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"etl-icon icon-global mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 17px; color: rgb(0, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://elisiapoelman.github.io/NL1/\">NL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://elisiapoelman.github.io/PUB\">ENG</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"DRAWINGS.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -265,7 +265,7 @@
               "color": "#ffffff",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "22px"
+              "font-size": "16px"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -346,7 +346,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://elisiapoelman.github.io/PUB/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EL I S I A &nbsp;P O E L M A N<br></a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://elisiapoelman.github.io/PUB/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">E L I S I A &nbsp; P O E L M A N<br></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"SCHILDERIJEN.html\" aria-expanded=\"false\">&nbsp;SCHILDERIJEN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OVER.html\" aria-expanded=\"false\">OVER</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACT.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"CONTACT.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">SOCIAAL</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://instagram.com/elisiapoelman\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(235, 107, 86);\"></span>INSTAGRAM</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"CONTACT.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"etl-icon icon-global mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 17px; color: rgb(0, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://elisiapoelman.github.io/NL1/\">NL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://elisiapoelman.github.io/PUB\">ENG</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"DRAWINGS.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -426,7 +426,7 @@
               "color": "#ffffff",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "22px"
+              "font-size": "16px"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -507,7 +507,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://elisiapoelman.github.io/PUB/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EL I S I A &nbsp;P O E L M A N<br></a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://elisiapoelman.github.io/PUB/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">E L I S I A &nbsp; P O E L M A N<br></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"SCHILDERIJEN.html\" aria-expanded=\"false\">&nbsp;SCHILDERIJEN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OVER.html\" aria-expanded=\"false\">OVER</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACT.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"CONTACT.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">SOCIAAL</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://instagram.com/elisiapoelman\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(235, 107, 86);\"></span>INSTAGRAM</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"CONTACT.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"etl-icon icon-global mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 17px; color: rgb(0, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://elisiapoelman.github.io/NL1/\">NL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://elisiapoelman.github.io/PUB\">ENG</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"DRAWINGS.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -770,7 +770,7 @@
               "color": "#ffffff",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "22px"
+              "font-size": "16px"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -851,7 +851,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://elisiapoelman.github.io/PUB/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EL I S I A &nbsp;P O E L M A N<br></a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://elisiapoelman.github.io/PUB/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">E L I S I A &nbsp; P O E L M A N<br></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"SCHILDERIJEN.html\" aria-expanded=\"false\">&nbsp;SCHILDERIJEN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"OVER.html\" aria-expanded=\"false\">OVER</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"CONTACT.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"CONTACT.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">SOCIAAL</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://instagram.com/elisiapoelman\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(235, 107, 86);\"></span>INSTAGRAM</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"CONTACT.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"etl-icon icon-global mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 17px; color: rgb(0, 0, 0);\"></span></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://elisiapoelman.github.io/NL1/\">NL</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://elisiapoelman.github.io/PUB\">ENG</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"DRAWINGS.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
@@ -883,20 +883,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "content6",
-          "_anchor": "content6-r",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates&nbsp;</p>",
-          "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates&nbsp;</p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "msg-box5",
           "_styles": {
             "H3": {
@@ -912,7 +898,7 @@
           "_anchor": "msg-box5-v",
           "_params": {
             "imageSize": "44",
-            "paddingTop": 0,
+            "paddingTop": "2",
             "paddingBottom": 0,
             "parallax": true,
             "bgImageRadio": false,
@@ -953,7 +939,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\"><br></span><br><span style=\"font-weight: normal;\">Elisia Poelman, geboren en getogen in Geraardsbergen op 19 februari 1997 studeerde af in het kunsthumaniora Sint-Lucas met de opleiding 'Vrije Beeldende Kunsten'. Vervolgens startte ze meteen haar opleiding schilderkunst in het hoger Sint-Lucas waar ze nog steeds mee bezig is. </span><br><span style=\"font-weight: normal;\"><br></span><span style=\"font-weight: normal;\">Elisia zit nog volop in een zoekproces waar ze beelden die haar triggeren probeert om te zetten tot een schilderij. Dat kunnen herinneringen zijn, maar ook dagdagelijkse dingen die men als mens tegenkomt maar misschien aandacht aan vergeet te schenken. </span><br><span style=\"font-weight: normal;\"><br></span><br><span style=\"font-weight: normal;\">Haar meeste werken zijn gebaseerd op jeugherinneringen en ze is gefascineerd door hoe het mechanisme van herinneren werkt. Wat weet men nog? Wat blijft er nog over van een herinnering? Of is die herinnering misschien toch niet zo vaag dan als men in eerste instantie dacht? Vat onze herinnering enkel de essentie? Tal van vragen dus die Elisia drijven en bezighouden in haar zoektocht.</span>",
+          "title": "<br><span style=\"font-weight: normal;\">Elisia Poelman, geboren en getogen in Geraardsbergen op 19 februari 1997 studeerde af in het kunsthumaniora Sint-Lucas met de opleiding 'Vrije Beeldende Kunsten'. Vervolgens startte ze meteen haar opleiding schilderkunst in het hoger Sint-Lucas waar ze nog steeds mee bezig is. </span><br><span style=\"font-weight: normal;\"><br></span><span style=\"font-weight: normal;\">Elisia zit nog volop in een zoekproces waar ze beelden die haar triggeren probeert om te zetten tot een schilderij. Dat kunnen herinneringen zijn, maar ook dagdagelijkse dingen die men als mens tegenkomt maar misschien aandacht aan vergeet te schenken. </span><br><span style=\"font-weight: normal;\"><br></span><br><span style=\"font-weight: normal;\">Haar meeste werken zijn gebaseerd op jeugherinneringen en ze is gefascineerd door hoe het mechanisme van herinneren werkt. Wat weet men nog? Wat blijft er nog over van een herinnering? Of is die herinnering misschien toch niet zo vaag dan als men in eerste instantie dacht? Vat onze herinnering enkel de essentie? Tal van vragen dus die Elisia drijven en bezighouden in haar zoektocht.</span>",
           "text": ".",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
